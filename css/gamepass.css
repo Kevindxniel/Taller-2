@@ -1,0 +1,61 @@
+.navbar{
+    max-width: 100%;
+   height: auto;
+}
+ .img{
+    max-width: 100%;
+   height: auto;
+
+ }
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+
+.container-fluid{
+    color: white;
+}
+.card-group{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+.container{
+    display: flex;
+    text-align: center;
+    color: white;
+}
+.footer{
+    background-color: green;
+}
+.clearfix{
+    background-color: rgb(0, 107, 14);
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .columna{
+    width: 30%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: left;
+  }

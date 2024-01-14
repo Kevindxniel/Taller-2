@@ -1,0 +1,48 @@
+.navbar{
+    max-width: 100%;
+   height: auto;
+}
+ .img{
+    max-width: 100%;
+   height: auto;
+
+ }
+.card-group{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    max-width: 100%;
+   height: auto;
+}
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+.grid-container {
+    display: inline-flex;
+    grid-gap: 10px;
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    
+  }
+  
+.footer{
+    background-color: green;
+}
+.clearfix{
+    display: table;
+    background-color: rgb(0, 107, 14);
+    content: "";
+    clear: both
+  }
+  .columna{
+    width: 30%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+    text-align: left;
+  }
